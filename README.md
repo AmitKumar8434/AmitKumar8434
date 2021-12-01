@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Undergrad from India .</h3>
 
 
-- 🔭 I’m currently working on **my Problem Solving Skills .**
+- 🔭 I’m currently working on **my Frontend and Problem Solving Skills .**
 
 - 🌱 I’m currently learning **Reactjs .**
 
